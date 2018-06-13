@@ -297,7 +297,6 @@
 295,78744.0,THEFT                         ,Theft
 296,78744.0,AGG ASLT STRANGLE/SUFFOCATE   ,Agg Assault
 297,78744.0,BURGLARY OF RESIDENCE         ,Burglary
-298,78652.0,BURGLARY OF RESIDENCE         ,Burglary
 299,78703.0,THEFT BY SHOPLIFTING          ,Theft
 300,78613.0,THEFT                         ,Theft
 301,78721.0,AGG RAPE OF A CHILD           ,Rape
@@ -308,13 +307,11 @@
 306,78721.0,THEFT                         ,Theft
 307,78750.0,THEFT                         ,Theft
 308,78741.0,BURGLARY OF VEHICLE           ,Theft
-309,78652.0,BURGLARY OF VEHICLE           ,Theft
 310,78757.0,BURGLARY OF VEHICLE           ,Theft
 311,78741.0,THEFT OF AUTO PARTS           ,Theft
 312,78753.0,THEFT FROM AUTO               ,Theft
 313,78744.0,BURGLARY OF VEHICLE           ,Theft
 314,78745.0,BURGLARY OF VEHICLE           ,Theft
-315,78652.0,BURGLARY OF VEHICLE           ,Theft
 316,78741.0,BURGLARY OF VEHICLE           ,Theft
 317,78757.0,BURGLARY OF VEHICLE           ,Theft
 318,78758.0,THEFT                         ,Theft
@@ -461,7 +458,6 @@
 459,78723.0,THEFT                         ,Theft
 460,78744.0,THEFT                         ,Theft
 461,78744.0,BURGLARY OF VEHICLE           ,Theft
-462,78652.0,BURGLARY OF VEHICLE           ,Theft
 463,78758.0,THEFT FROM BUILDING           ,Theft
 464,78748.0,THEFT                         ,Theft
 465,78758.0,THEFT BY SHOPLIFTING          ,Theft
@@ -1321,7 +1317,6 @@
 1319,78759.0,THEFT                         ,Theft
 1320,78752.0,BURGLARY OF RESIDENCE         ,Burglary
 1321,78704.0,ROBBERY BY THREAT             ,Robbery
-1322,78712.0,AUTO THEFT                    ,Auto Theft
 1323,78705.0,BURGLARY OF RESIDENCE         ,Burglary
 1324,78753.0,THEFT                         ,Theft
 1325,78749.0,ROBBERY BY ASSAULT            ,Robbery
@@ -1590,7 +1585,6 @@
 1588,78704.0,BURGLARY OF VEHICLE           ,Theft
 1589,78759.0,THEFT                         ,Theft
 1590,78731.0,BURGLARY OF VEHICLE           ,Theft
-1591,78712.0,BURGLARY OF VEHICLE           ,Theft
 1592,78753.0,THEFT BY SHOPLIFTING          ,Theft
 1593,78753.0,THEFT BY SHOPLIFTING          ,Theft
 1594,78745.0,AUTO THEFT                    ,Auto Theft
@@ -1934,7 +1928,6 @@
 1932,78701.0,THEFT                         ,Theft
 1933,78753.0,THEFT OF AUTO PARTS           ,Theft
 1934,78705.0,BURGLARY OF RESIDENCE         ,Burglary
-1935,78712.0,THEFT OF BICYCLE              ,Theft
 1936,78750.0,THEFT                         ,Theft
 1937,78705.0,THEFT OF BICYCLE              ,Theft
 1938,78704.0,THEFT OF BICYCLE              ,Theft
@@ -2605,7 +2598,6 @@
 2603,78741.0,THEFT OF BICYCLE              ,Theft
 2604,78723.0,THEFT                         ,Theft
 2605,78704.0,THEFT OF BICYCLE              ,Theft
-2606,78652.0,BURGLARY OF VEHICLE           ,Theft
 2607,78753.0,BURGLARY OF VEHICLE           ,Theft
 2608,78752.0,BURGLARY OF VEHICLE           ,Theft
 2609,78703.0,THEFT OF BICYCLE              ,Theft
@@ -6878,7 +6870,6 @@
 6876,78756.0,THEFT BY SHOPLIFTING          ,Theft
 6877,78749.0,BURGLARY NON RESIDENCE        ,Burglary
 6878,78745.0,THEFT BY SHOPLIFTING          ,Theft
-6879,78728.0,DEADLY CONDUCT                ,Agg Assault
 6880,78753.0,BURGLARY OF RESIDENCE         ,Burglary
 6881,78741.0,BURGLARY OF RESIDENCE         ,Burglary
 6882,78741.0,AUTO THEFT                    ,Auto Theft
@@ -7073,7 +7064,6 @@
 7071,78731.0,DEADLY CONDUCT                ,Agg Assault
 7072,78723.0,AUTO THEFT                    ,Auto Theft
 7073,78752.0,AUTO THEFT                    ,Auto Theft
-7074,78712.0,SEXUAL ASSAULT W/ OBJECT      ,Rape
 7075,78741.0,AUTO THEFT                    ,Auto Theft
 7076,78754.0,BURGLARY NON RESIDENCE        ,Burglary
 7077,78704.0,AGG ASLT STRANGLE/SUFFOCATE   ,Agg Assault
@@ -7821,14 +7811,12 @@
 7819,78723.0,THEFT FROM AUTO               ,Theft
 7820,78744.0,BURGLARY OF VEHICLE           ,Theft
 7821,78741.0,THEFT                         ,Theft
-7822,78652.0,BURGLARY OF VEHICLE           ,Theft
 7823,78726.0,BURGLARY OF VEHICLE           ,Theft
 7824,78749.0,BURGLARY OF VEHICLE           ,Theft
 7825,78741.0,THEFT OF BICYCLE              ,Theft
 7826,78744.0,THEFT                         ,Theft
 7827,78758.0,BURGLARY OF VEHICLE           ,Theft
 7828,78758.0,THEFT                         ,Theft
-7829,78652.0,THEFT BY SHOPLIFTING          ,Theft
 7830,78701.0,THEFT                         ,Theft
 7831,78741.0,THEFT                         ,Theft
 7832,78751.0,THEFT OF BICYCLE              ,Theft
@@ -10333,7 +10321,6 @@
 10331,78754.0,AUTO THEFT                    ,Auto Theft
 10332,78745.0,AUTO THEFT                    ,Auto Theft
 10333,78744.0,AGG ASSAULT FAM/DATE VIOLENCE ,Agg Assault
-10334,78652.0,BURGLARY OF VEHICLE           ,Theft
 10335,78702.0,AUTO THEFT                    ,Auto Theft
 10336,78758.0,AGG ASLT ENHANC STRANGL/SUFFOC,Agg Assault
 10337,78741.0,THEFT FROM PERSON             ,Theft
@@ -10376,7 +10363,6 @@
 10374,78744.0,THEFT BY SHOPLIFTING          ,Theft
 10375,78753.0,THEFT                         ,Theft
 10376,78744.0,BURGLARY OF VEHICLE           ,Theft
-10377,78652.0,BURGLARY OF VEHICLE           ,Theft
 10378,78741.0,BURGLARY OF VEHICLE           ,Theft
 10379,78729.0,BURGLARY OF VEHICLE           ,Theft
 10380,78704.0,BURGLARY OF VEHICLE           ,Theft
@@ -10734,7 +10720,6 @@
 10732,78759.0,BURGLARY OF VEHICLE           ,Theft
 10733,78753.0,BURGLARY OF VEHICLE           ,Theft
 10734,78756.0,BURGLARY OF VEHICLE           ,Theft
-10735,78728.0,BURGLARY OF VEHICLE           ,Theft
 10736,78731.0,BURGLARY OF VEHICLE           ,Theft
 10737,78744.0,BURGLARY OF VEHICLE           ,Theft
 10738,78752.0,BURGLARY OF VEHICLE           ,Theft
@@ -13089,7 +13074,6 @@
 13087,78744.0,BREACH OF COMPUTER SECURITY   ,Theft
 13088,78704.0,BURGLARY OF VEHICLE           ,Theft
 13089,78704.0,BURGLARY OF VEHICLE           ,Theft
-13090,78652.0,THEFT                         ,Theft
 13091,78744.0,AUTO THEFT                    ,Auto Theft
 13092,78704.0,AGG ASLT STRANGLE/SUFFOCATE   ,Agg Assault
 13093,78701.0,THEFT                         ,Theft
@@ -13323,7 +13307,6 @@
 13321,78741.0,AUTO THEFT                    ,Auto Theft
 13322,78757.0,AGG ASLT STRANGLE/SUFFOCATE   ,Agg Assault
 13323,78748.0,THEFT BY SHOPLIFTING          ,Theft
-13324,78652.0,BURGLARY OF RESIDENCE         ,Burglary
 13325,78741.0,THEFT BY SHOPLIFTING          ,Theft
 13326,78753.0,AUTO THEFT                    ,Auto Theft
 13327,78721.0,BURGLARY OF RESIDENCE         ,Burglary
@@ -13354,7 +13337,6 @@
 13352,78723.0,THEFT                         ,Theft
 13353,78752.0,THEFT OF BICYCLE              ,Theft
 13354,78702.0,THEFT                         ,Theft
-13355,78652.0,BURGLARY OF VEHICLE           ,Theft
 13356,78701.0,THEFT                         ,Theft
 13357,78701.0,THEFT                         ,Theft
 13358,78727.0,BURGLARY OF VEHICLE           ,Theft
@@ -13926,7 +13908,6 @@
 13924,78701.0,BURGLARY OF VEHICLE           ,Theft
 13925,78702.0,THEFT                         ,Theft
 13926,78702.0,BURGLARY OF VEHICLE           ,Theft
-13927,78664.0,THEFT                         ,Theft
 13928,78756.0,THEFT OF BICYCLE              ,Theft
 13929,78729.0,THEFT BY SHOPLIFTING          ,Theft
 13930,78757.0,BURGLARY NON RESIDENCE        ,Burglary
@@ -16086,7 +16067,6 @@
 16084,78749.0,THEFT                         ,Theft
 16085,78741.0,THEFT                         ,Theft
 16086,78719.0,BURGLARY OF VEHICLE           ,Theft
-16087,78652.0,THEFT                         ,Theft
 16088,78701.0,THEFT BY SHOPLIFTING          ,Theft
 16089,78741.0,THEFT                         ,Theft
 16090,78742.0,THEFT                         ,Theft
@@ -17401,7 +17381,6 @@
 17399,78705.0,THEFT                         ,Theft
 17400,78704.0,THEFT                         ,Theft
 17401,78759.0,THEFT BY SHOPLIFTING          ,Theft
-17402,78652.0,BURGLARY OF VEHICLE           ,Theft
 17403,78660.0,THEFT BY SHOPLIFTING          ,Theft
 17404,78723.0,THEFT BY SHOPLIFTING          ,Theft
 17405,78751.0,THEFT BY SHOPLIFTING          ,Theft
@@ -19072,7 +19051,6 @@
 19070,,BURGLARY OF VEHICLE           ,Theft
 19071,78757.0,THEFT BY SHOPLIFTING          ,Theft
 19072,78753.0,THEFT                         ,Theft
-19073,78728.0,THEFT                         ,Theft
 19074,78660.0,THEFT BY SHOPLIFTING          ,Theft
 19075,78752.0,THEFT OF LICENSE PLATE        ,Theft
 19076,78721.0,THEFT                         ,Theft
@@ -19809,7 +19787,6 @@
 19807,78702.0,THEFT                         ,Theft
 19808,78744.0,THEFT                         ,Theft
 19809,78757.0,BURGLARY OF VEHICLE           ,Theft
-19810,78712.0,THEFT FROM AUTO               ,Theft
 19811,78705.0,THEFT OF BICYCLE              ,Theft
 19812,78729.0,BURGLARY OF VEHICLE           ,Theft
 19813,78723.0,AGG ASLT STRANGLE/SUFFOCATE   ,Agg Assault
@@ -21306,7 +21283,6 @@
 21304,78744.0,BURGLARY OF RESIDENCE         ,Burglary
 21305,78724.0,THEFT                         ,Theft
 21306,78758.0,BURGLARY OF RESIDENCE         ,Burglary
-21307,78728.0,DEADLY CONDUCT                ,Agg Assault
 21308,78723.0,BURG NON RESIDENCE SHEDS      ,Burglary
 21309,78724.0,AGG ASSAULT                   ,Agg Assault
 21310,78723.0,THEFT                         ,Theft
@@ -21464,7 +21440,6 @@
 21462,78748.0,BURGLARY OF VEHICLE           ,Theft
 21463,78704.0,THEFT BY SHOPLIFTING          ,Theft
 21464,78744.0,THEFT                         ,Theft
-21465,78728.0,THEFT                         ,Theft
 21466,78752.0,BURGLARY OF VEHICLE           ,Theft
 21467,78748.0,BURGLARY OF VEHICLE           ,Theft
 21468,78701.0,THEFT                         ,Theft
@@ -21506,7 +21481,6 @@
 21504,78702.0,AGG ASLT ENHANC STRANGL/SUFFOC,Agg Assault
 21505,78753.0,THEFT                         ,Theft
 21506,78660.0,THEFT                         ,Theft
-21507,78664.0,AGG ASLT STRANGLE/SUFFOCATE   ,Agg Assault
 21508,78741.0,THEFT BY SHOPLIFTING          ,Theft
 21509,78726.0,BURGLARY OF VEHICLE           ,Theft
 21510,78701.0,THEFT FROM PERSON             ,Theft
@@ -22103,7 +22077,6 @@
 22101,78745.0,BURGLARY NON RESIDENCE        ,Burglary
 22102,78723.0,THEFT                         ,Theft
 22103,78723.0,THEFT                         ,Theft
-22104,78652.0,BURGLARY OF VEHICLE           ,Theft
 22105,78701.0,THEFT                         ,Theft
 22106,78727.0,THEFT FROM AUTO               ,Theft
 22107,78723.0,BURGLARY OF VEHICLE           ,Theft
@@ -22521,7 +22494,6 @@
 22519,78717.0,BURGLARY OF RESIDENCE         ,Burglary
 22520,78704.0,BURGLARY OF VEHICLE           ,Theft
 22521,78617.0,THEFT                         ,Theft
-22522,78652.0,BURGLARY OF VEHICLE           ,Theft
 22523,78754.0,BURGLARY OF VEHICLE           ,Theft
 22524,78758.0,THEFT FROM AUTO               ,Theft
 22525,78745.0,THEFT                         ,Theft
@@ -23269,7 +23241,6 @@
 23267,78753.0,BURGLARY OF VEHICLE           ,Theft
 23268,78754.0,BURGLARY OF VEHICLE           ,Theft
 23269,78701.0,THEFT                         ,Theft
-23270,78728.0,BURGLARY OF VEHICLE           ,Theft
 23271,78723.0,BURGLARY OF VEHICLE           ,Theft
 23272,78704.0,THEFT OF AUTO PARTS           ,Theft
 23273,78723.0,AGG SEXUAL ASSAULT CHILD/OBJEC,Rape
@@ -24673,7 +24644,6 @@
 24671,78729.0,THEFT BY SHOPLIFTING          ,Theft
 24672,78724.0,BURG NON RESIDENCE SHEDS      ,Burglary
 24673,78745.0,THEFT                         ,Theft
-24674,78732.0,THEFT                         ,Theft
 24675,78613.0,BURGLARY OF VEHICLE           ,Theft
 24676,78701.0,THEFT                         ,Theft
 24677,78701.0,THEFT                         ,Theft
@@ -28164,7 +28134,6 @@
 28162,78702.0,BURGLARY NON RESIDENCE        ,Burglary
 28163,78722.0,BURGLARY OF RESIDENCE         ,Burglary
 28164,78744.0,AUTO THEFT                    ,Auto Theft
-28165,78728.0,BURGLARY OF VEHICLE           ,Theft
 28166,78701.0,THEFT                         ,Theft
 28167,78723.0,BURGLARY NON RESIDENCE        ,Burglary
 28168,78723.0,THEFT                         ,Theft
@@ -28764,7 +28733,6 @@
 28762,78731.0,BURGLARY OF VEHICLE           ,Theft
 28763,78744.0,BURGLARY OF VEHICLE           ,Theft
 28764,78741.0,BURGLARY OF VEHICLE           ,Theft
-28765,78737.0,THEFT                         ,Theft
 28766,78722.0,THEFT                         ,Theft
 28767,78701.0,THEFT OF BICYCLE              ,Theft
 28768,78723.0,THEFT                         ,Theft
@@ -29777,7 +29745,6 @@
 29775,78749.0,THEFT                         ,Theft
 29776,78703.0,THEFT                         ,Theft
 29777,78723.0,THEFT BY SHOPLIFTING          ,Theft
-29778,78712.0,THEFT                         ,Theft
 29779,78759.0,THEFT                         ,Theft
 29780,78701.0,THEFT                         ,Theft
 29781,78660.0,THEFT                         ,Theft
@@ -31289,7 +31256,6 @@
 31287,78721.0,THEFT                         ,Theft
 31288,78742.0,BURGLARY OF RESIDENCE         ,Burglary
 31289,78727.0,BURGLARY OF RESIDENCE         ,Burglary
-31290,78712.0,RAPE                          ,Rape
 31291,78723.0,BURGLARY OF RESIDENCE         ,Burglary
 31292,78758.0,BURGLARY OF RESIDENCE         ,Burglary
 31293,78704.0,THEFT                         ,Theft
